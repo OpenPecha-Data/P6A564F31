@@ -1,0 +1,31 @@
+id: P6A564F31
+initial_creation_type: input
+source_metadata:
+  title: Hagiography of gSer mdog paṇ chen Shākya mchog ldan (1428–1507)
+  author: རྗེ་བཙུན་ཀུན་དགའ་གྲོལ་མཆོག
+  description: 'Digital version 4.0 {Tibetan}; master xml (completed: 2012-09); generated
+    from Wylie input, head entries supplemented and linebreaks encoded, revision in
+    process, no thematic
+
+    TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Volker Caumanns (vc)
+  - Editorial process:Volker Caumanns (vc), Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:Volker Caumanns (vc)
+  text_witnesses: https://sakyaresearch.org/sources/282
+  bases:
+    c96a:
+      title: Hagiography of gSer mdog paṇ chen Shākya mchog ldan (1428–1507)
+      order: 1
+      base_file: c96a.txt
+created_at: '2022-04-15T19:01:05.767944'
+last_modified_at: '2022-04-15T19:01:05.767952'
+quality: null
